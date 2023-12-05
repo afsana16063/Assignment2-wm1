@@ -1,1 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 
+#cards {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.productCard {
+  width: 30%;
+  text-align: center;
+  padding: 1.5em;
+  margin-bottom: 3em;
+}
+
+.productTitle {
+  font-size: 1.5em;
+}
+
+.productCategory,
+.productPrice {
+  font-weight: bold;
+  margin: 1.5em;
+}

@@ -28,5 +28,6 @@ fetch("https://dummyjson.com/products")
     document.getElementById("cards").innerHTML = data1;
   })
   .catch((err) => {
+    // console.log(err);
     console.error("Error fetching or processing data:", err);
   });

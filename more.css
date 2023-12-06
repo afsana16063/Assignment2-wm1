@@ -1,0 +1,16 @@
+body {
+  min-height: 100vh;
+  line-height: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#productInfo {
+  width: 800px;
+  background-color: #b59fd5;
+  border-radius: 30px;
+  padding: 40px;
+  color: #fff;
+  text-align: center;
+}

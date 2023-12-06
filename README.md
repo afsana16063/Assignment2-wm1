@@ -8,8 +8,6 @@ Discover a variety of products with our interactive web application, dynamically
 
 - **Product Showcase:** Explore a curated list of products, showcasing details like title, price, discount, category, and stock availability.
 - **Pagination:** Navigate seamlessly through different pages for a diverse product experience.
-- **Search Functionality:** Easily find specific products using our intuitive search bar.
-- **Category Filtering:** Refine your search by filtering products based on specific categories.
 - **Detailed Product View:** Dive deeper into individual products by clicking on the "More Details" button.
 - **Responsive Design:** Enjoy a consistent and engaging experience across various devices.
 
@@ -24,11 +22,10 @@ Discover a variety of products with our interactive web application, dynamically
 ## Usage
 
 - Upon launching the web app, explore an enticing array of products with essential details.
-- Navigate seamlessly through different pages using our user-friendly pagination controls.
 
 ## Exploring Product Details
 
-- Click on the "More Details" button of any product to uncover in-depth information.
+- Click on the "More..." button of any product to uncover in-depth information.
 - Experience a detailed view showcasing brand, title, description, rating, price, and a captivating image gallery.
 
 ## Streamlined Search & Filtering

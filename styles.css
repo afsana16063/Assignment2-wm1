@@ -53,3 +53,32 @@ header {
   padding: 10px;
   margin-top: 3%;
 }
+
+.pagination ul {
+  margin: 20px 30px;
+}
+
+footer ul li {
+  display: inline-block;
+  margin: 0 10px;
+  background-color: #9765de;
+  color: aliceblue;
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  text-align: center;
+  font-size: 22px;
+  line-height: 45px;
+  cursor: pointer;
+}
+
+.btn1,
+.btn2 {
+  display: inline-flex;
+  align-items: center;
+  color: #9765de;
+  background-color: transparent;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
